@@ -16,7 +16,7 @@ html {
 }
 
 body {
-    background: #1A1B25 url('/images/BGlines.svg') center -80px/cover fixed no-repeat;
+    background: #1A1B25 url('images/BGlines.svg') center -80px/cover fixed no-repeat;
     color: #fff;
     margin: 0;
     padding: 15px;
